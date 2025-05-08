@@ -1,0 +1,6 @@
+Alunos aprovados (média >= 7.0):
+
+Nome: Dimas
+Matrícula: 20234040
+Média: 7.00
+
